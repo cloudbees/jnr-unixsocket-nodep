@@ -25,7 +25,7 @@
 
   <groupId>com.cloudbees.util</groupId>
   <artifactId>jnr-unixsocket-nodep</artifactId>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.3-SNAPSHOT</version>
 
   <name>jnr-unixsocket-nodep</name>
   <description>com.github.jnr:jnr-unixsocket with orh.objectweb.asm shaded</description>
@@ -65,7 +65,7 @@
     <dependency>
       <groupId>com.github.jnr</groupId>
       <artifactId>jffi</artifactId>
-      <version>1.2.6</version>
+      <version>1.2.7</version>
     </dependency>
     <dependency>
       <groupId>com.github.jnr</groupId>
@@ -75,12 +75,12 @@
     <dependency>
       <groupId>com.github.jnr</groupId>
       <artifactId>jnr-unixsocket</artifactId>
-      <version>0.1</version>
+      <version>0.3</version>
     </dependency>
     <dependency>
       <groupId>com.github.jnr</groupId>
       <artifactId>jnr-posix</artifactId>
-      <version>2.3.1</version>
+      <version>3.0.1</version>
     </dependency>
   </dependencies>
 
