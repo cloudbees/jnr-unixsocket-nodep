@@ -25,7 +25,7 @@
 
   <groupId>com.cloudbees.util</groupId>
   <artifactId>jnr-unixsocket-nodep</artifactId>
-  <version>0.3-SNAPSHOT</version>
+  <version>0.3</version>
 
   <name>jnr-unixsocket-nodep</name>
   <description>com.github.jnr:jnr-unixsocket with orh.objectweb.asm shaded</description>
